@@ -1,0 +1,29 @@
+{
+  "name": "eslint-config-joey",
+  "version": "1.0.0",
+  "description": "Testing for eslint and codeclimate",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/joeycozza/eslint-config-joey.git"
+  },
+  "keywords": [
+    "eslint",
+    "eslint-config"
+  ],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/joeycozza/eslint-config-joey/issues"
+  },
+  "homepage": "https://github.com/joeycozza/eslint-config-joey#readme",
+  "dependencies": {
+    "eslint-plugin-security": "^1.4.0"
+  },
+  "peerDependencies": {
+    "eslint": ">= 4"
+  }
+}
